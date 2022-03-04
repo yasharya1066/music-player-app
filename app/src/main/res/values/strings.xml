@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">mirchi</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="turbo">TODO</string>
+    <string name="invisible" />
+    <string name="neha">neha</string>
+    <string name="invisible2">naha kakkar</string>
+    <string name="neha_kakkar">neha_kakkar</string>
+    <string name="nk">neha kakkar</string>
+    <string name="badshah">Badshah</string>
+    <string name="arijit_singh">Arijit Singh</string>
+    <string name="divine">Divine</string>
+    <string name="sidhu_moose_wala">Sidhu Moose Wala</string>
+    <string name="Nk">Neha Kakkar</string>
+    <string name="diljit_dosanjh">Diljit Dosanjh</string>
+    <string name="popular_artists">Popular artists</string>
+    <string name="mix_up_music">Mix-up Music</string>
+    <string name="time_matters">Time Matters</string>
+    <string name="old_is_gold">Old Is Gold</string>
+    <string name="latest_songs">Latest Songs</string>
+    <string name="song_name">Song Name</string>
+    <string name="todo">TODO</string>
+    <string name="kaka">TODO</string>
+    <string name="wah">TODO</string>
+    <string name="music_name">music_name</string>
+
+</resources>

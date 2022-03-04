@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "650982036652",
+    "project_id": "mirchi-a8682",
+    "storage_bucket": "mirchi-a8682.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650982036652:android:15933d1b9f46f3bbde3b09",
+        "android_client_info": {
+          "package_name": "com.example.mirchi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650982036652-i0n7455jop17cjmjhkc23airfc4gjrdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mirchi",
+            "certificate_hash": "380173109e178884617b7f0747a79afa885553be"
+          }
+        },
+        {
+          "client_id": "650982036652-cm0tfc1kr9v89f1htmjhamhkn80m4o69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBigKbK_YQD-n_6WSooUZwwpyZuWssfWVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650982036652-cm0tfc1kr9v89f1htmjhamhkn80m4o69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
